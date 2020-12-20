@@ -25,4 +25,3 @@ function draw(){
   }
     drawSprites();
 }
-© 2020 GitHub, Inc.
